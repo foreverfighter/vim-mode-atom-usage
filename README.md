@@ -7,6 +7,7 @@ Basic practical usage for atom and vim mode.
 * 0 $ - go to start and end of line
 * w b - move forward or back one word
 * h l - move forward or back one character
+* ctrl+f ctrl+b - move one page down and up
 
 ### INSERT MODE
 
